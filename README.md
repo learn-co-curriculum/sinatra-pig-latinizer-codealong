@@ -14,3 +14,5 @@ allowfullscreen></iframe><p><a href="https://www.youtube.com/watch?v=NrV54gtwp5Q
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/pGIynaHuyzQ" frameborder="0"
 allowfullscreen></iframe><p><a href="https://www.youtube.com/watch?v=pGIynaHuyzQ">Pig Latinizer 2: Forms, Params, and Post Requests</a></p>
+
+<a href='https://learn.co/lessons/sinatra-pig-latinizer-codealong' data-visibility='hidden'>View this lesson on Learn.co</a>
