@@ -15,4 +15,4 @@ allowfullscreen></iframe><p><a href="https://www.youtube.com/watch?v=NrV54gtwp5Q
 <iframe width="560" height="315" src="https://www.youtube.com/embed/pGIynaHuyzQ" frameborder="0"
 allowfullscreen></iframe><p><a href="https://www.youtube.com/watch?v=pGIynaHuyzQ">Pig Latinizer 2: Forms, Params, and Post Requests</a></p>
 
-<a href='https://learn.co/lessons/sinatra-pig-latinizer-codealong' data-visibility='hidden'>View this lesson on Learn.co</a>
+<p data-visibility='hidden'>View <a href='https://learn.co/lessons/sinatra-pig-latinizer-codealong' title='Pig Latinizer MVC Project'>Pig Latinizer MVC Project</a> on Learn.co and start learning to code for free.</p>
